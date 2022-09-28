@@ -1,0 +1,282 @@
+*{
+    margin: 0rem;
+    padding:0rem;
+  }
+
+
+  #container {
+    display: flex;
+    gap: 0.625rem;
+    justify-content: space-between;
+    margin: 0rem;
+  }
+
+  #nksearchdiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #nksearch {
+    height: 2.5rem;
+    width: 18.75rem;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #icondiv {
+    height: 2.5rem;
+    width: 3.3125rem;
+    display: flex;
+    background-color: #e08;
+    color: white;
+    justify-content: center;
+    align-items: center;
+  }
+  #nklastdiv {
+    width: 12.5rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  #nklastdiv .fa-heart {
+    padding: 0.3125rem;
+    border: 0.0625rem solid black;
+  }
+  #nklastdiv .fa-user {
+    padding: 0.3125rem;
+    border: 0.0625rem solid black;
+  }
+  #nklastdiv .fa-heart:hover {
+    background-color: #e08;
+    color: white;
+    padding: 0.3125rem;
+    border: 0.0625rem solid #e08;
+  }
+  #nklastdiv .fa-user:hover {
+    background-color: #e08;
+    color: white;
+    padding: 0.5625rem;
+    border: 0.0625rem solid #e08;
+  }
+
+  .nav-item{
+    height: 1.25rem;
+  }
+  li{
+    list-style: none;
+  }
+  .nav-item li {
+    list-style: none;
+  }
+  .nav-item .sub-items-mycart {
+    pointer-events: none;
+    transform: translateY(0);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1rem;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0rem 0.313rem 0.938rem;
+    position: absolute;
+    width: 9%;
+    margin: auto;
+    left: 88vw;
+    top: 16.5vh;
+    opacity: 0;
+    z-index: 5;
+    visibility: hidden;
+  }
+  .nav-item:hover .sub-items-mycart {
+    pointer-events: all;
+    transform: translateY(0);
+    transition: 600ms;
+    opacity: 1;
+    visibility: visible;
+  }
+  .sub-list  li > a {
+  text-decoration: none;
+  color: black;
+ }
+ .sub-list  li > a:hover {
+  text-decoration: none;
+  color: #e08;
+ }
+
+
+  #navThird {
+    height: 8vh;
+    width: 100%;
+    background: #e08;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: absolute;
+    margin-bottom: 30px;
+  }
+
+  #navThirdList {
+    display: flex;
+    width: auto;
+    justify-content: center;
+    height: 100%;
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+
+  #navThirdList > li {
+    width: auto;
+    font-size: 2.5vh;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    line-height: 1.8vh;
+    padding: 1.81vh;
+    list-style: none;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+  }
+
+  /* Up Arrow icon on hover */
+  #navThirdList > li:hover {
+    background-color:#c07;
+  }
+  .liIcon {
+     color: white;
+     padding:0.313rem;
+  }
+  
+  
+  .nav-item:hover .liIcon {
+    display: block;
+     margin: auto; 
+     display: grid;
+     padding: auto;
+     transition: 600ms;
+  }
+
+  #navThirdList > li > a {
+    text-decoration: none;
+    color: white;
+  }
+  .nav-item .fa-bag-shopping {
+    color:white;
+    margin-right:0.313rem;
+  }
+  .cat1 {
+    font-weight: bold;
+  }
+  
+  .nav-item .sub-items {
+    pointer-events: none;
+    transform: translateY(0);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0rem 0.313rem 0.938rem;
+    position: absolute;
+    width: 80%;
+    margin:auto;
+    left: 4vw;
+    top: 7vh;
+    opacity: 0;
+    z-index: 5;
+    visibility: hidden;
+  }
+  .nav-item .sub-items-fragrance{
+    pointer-events: none;
+    transform: translateY(0);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1rem;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0rem 0.313rem 0.938rem;
+    position: absolute;
+    width: 15%;
+    margin:auto;
+    left: 50vw;
+    top: 7vh;
+    opacity: 0;
+    z-index: 5;
+    visibility: hidden;
+  }
+  .nav-item .sub-items-mycart{
+    pointer-events: none;
+    transform: translateY(0);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1rem;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0rem 0.313rem 0.938rem;
+    position: absolute;
+    width: 12%;
+    margin:auto;
+    left: 80vw;
+    top: 7vh;
+    opacity: 0;
+    z-index: 5;
+    visibility: hidden;
+  }
+  /* After Hover on element */
+  .nav-item:hover .sub-items-mycart{
+    pointer-events: all;
+    transform: translateY(0);
+    transition: 600ms;
+    opacity: 1;
+    visibility: visible;
+  }
+  .nav-item:hover .sub-items-fragrance {
+    pointer-events: all;
+    transform: translateY(0);
+    transition: 600ms;
+    opacity: 1;
+    visibility: visible;
+  }
+  .nav-item:hover .sub-items {
+    pointer-events: all;
+    transform: translateY(0);
+    transition: 600ms;
+    opacity: 1;
+    visibility: visible;
+  }
+  /* Sub list of sub items from hover of any perent li */
+  .nav-item .sub-items .sub-list {
+    padding: 1rem;
+    display: flex;
+    gap: 2rem;
+    justify-content: space-between;
+  }
+  
+  .sub-list li {
+    font-size: 1rem;
+    list-style: none;
+    margin-bottom: 0.6rem;
+  }
+  .sub-list a {
+    text-decoration: none;
+    color:#668;
+    line-height: 1.1rem;
+    font-size: 0.9rem;
+  }
+  .sub-list a strong {
+    font-weight: bold;
+    color:black
+  }
+  .nav-item:hover .sub-list a:hover {
+    color:#e08
+  }
+
+  .sub-img {
+    display: flex;
+    gap: 1.66vw;
+    max-height: 50vh;
+    max-width: 50vw;
+  }
+  .sub-img > img {
+    height: 100%;
+  }
+
+  .iconHover:hover .color {
+    color: #000000;
+    fill: black;
+  }
