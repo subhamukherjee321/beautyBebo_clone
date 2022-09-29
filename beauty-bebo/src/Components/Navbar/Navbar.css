@@ -3,6 +3,10 @@
     padding:0rem;
   }
 
+  body {
+    min-width: 100vh;
+  }
+
 
   #container {
     display: flex;
