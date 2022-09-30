@@ -1,0 +1,230 @@
+/* .navbarContainer{
+    display: flex;
+    justify-content: space-around;
+}
+.account{
+    display: flex;
+}
+.select {
+    border:  1px solid gray;
+    width: 300px;
+    padding-top: 17px;
+}
+.searchbar{
+    border: 1px solid gray;
+    padding-top: 17px;
+} */
+
+.navbar {
+    /* border: 1px solid red; */
+    display: grid;
+    grid-template-rows: 40% 60%;
+}
+.nbox > img {
+    width: 100%;
+}
+.nav{
+    background-color: #ee29a2;
+    text-align: center;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav{
+    display: flex;
+}
+.sidebar{
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+}
+.nav ul{
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    color: #fff;
+}
+.nav ul li{
+    margin: 5px;
+    padding: 10px;
+}
+.mycart{
+    width: 10%;
+    margin: 5px;
+    padding: 10px;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+.middle{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.logo{
+    width: 25%;
+}
+.search{
+    display: flex;
+    width: 55%;
+    height: 35px;
+    margin-top:20px;
+    border :1px solid gray;
+    border-radius: 4px;
+}
+.search .right button{
+    border: 0px;
+    cursor: pointer;
+}
+.left{
+    display: flex;
+    width: 40%;
+    justify-content: space-around;
+    box-sizing: border-box;
+    padding: 9px;
+}
+.content{
+    color: rgb(124, 119, 119);
+    font-size: 14px;
+}
+.select{
+    color:rgb(128, 125, 125);
+    border: 0px;
+}
+.line{
+    height: 20px;
+    width: 0px;
+    border: 1px solid rgb(196, 187, 187);
+    margin-top: 8px;
+}
+.right{
+    display: flex;
+    width: 60%;
+    margin-left: 30px;
+    justify-content: space-between;
+    margin-top: 2px;
+}
+h6{
+    font-size: 16px;
+    font-weight: 300;
+}
+.text{
+    border: 0px;
+}
+.icon1{
+    width: 50px;
+    margin-top: -2px;
+    background-color: #ee29a2;
+    color: #fff;
+    
+}
+.icon1>div{
+   margin-left: 12px;
+}
+.icon1 i{
+    width: 50px;
+    height: 100%;
+    font-size: 20px;
+    /* margin-left: 4px; */
+    margin-top:10px ;
+}
+.account{
+    display: flex;
+    width: 15%;
+    justify-content: space-around;
+    margin-top: 22px;
+}
+.icon2{
+    box-sizing: border-box;
+    padding: 5px;
+    height: 35px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.icon3{
+    box-sizing: border-box;
+    padding: 5px;
+    height: 35px;
+    border: 1px solid rgb(163, 153, 153);
+    font-size: 20px;
+    cursor: pointer;
+}
+.ac a{
+    font-size: 18px;
+    margin: 8px;
+    font-weight: 400;
+    color: black;
+}
+.active,.nav ul li:hover{
+    background-color: rgb(199, 32, 157);
+    border-radius: 5px;
+}
+.small{
+    display: none;
+    border: 1px solid blue;
+    width: 100%;
+}
+.flex3{
+    width: 85%;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+.flex3 img{
+    width: 30%;
+} 
+.flex3 span{
+    width:70%;
+}
+.input{
+    width: 80%;
+    height: 20px;
+    margin: auto;
+    border: 1px solid gray;
+    border-style:dotted;
+}
+.input input{
+    width: 80%;
+}
+.input .icon1{
+    width: 20%;
+}
+.login_signup_popup {
+    position: absolute;
+  
+    flex-direction: column;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+    display: none;
+    /* height: 400px; */
+    z-index: 50;
+    top: 16.2%;
+    right: 15%;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+    font-size: 90%;
+    font-weight: 400;
+    cursor: pointer;
+  }
+  
+  .login_signup_popup a > div {
+    padding: 10px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #cecece;
+  }
+  
+  .login_signup_popup a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .login_signup_popup > div:hover {
+    color: #dd0285;
+    font-size: 95%;
+  }
