@@ -1,0 +1,62 @@
+.checkoutcontainer_at{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+    text-align: left;
+}
+.checkout_details_at{
+    width: 70%;
+}
+.checkout_details_at input{
+    /* margin-top:10px;
+    margin-bottom: 20px; */
+    border: 1px  solid black;
+}
+.checkout_details_comm_at {
+    width: 90%;
+    height: 30px;
+}
+
+
+.shipping_heading_at{
+    width: 91%;
+    border-bottom: 1px solid grey;
+    font-weight: bold;
+
+}
+.checkout_delivery_div_at{
+    width:91%;
+    border-bottom: 1px solid grey;
+    font-weight: bold;
+}
+.checkout_delivery_at span{
+    margin-right: 20%;
+}
+.checkout_select_at{
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.checkout_country_at{
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.submitdetails_at{
+    display: flex;
+    flex-direction: row-reverse;
+    width:90%;
+}
+.submitdetails_at input{
+    padding: 1%;
+    width: 85px;
+    border: none;
+    background-color: rgb(66, 65, 65);
+    color: white;
+    font-size: 16px;
+}
+.submitdetails_at input:hover{
+    background-color: #dd0285;
+    color: white;
+}

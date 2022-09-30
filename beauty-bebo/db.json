@@ -1,0 +1,2158 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/i/m/image1_600x.jpg",
+      "title": "Lotus Herbals Whiteglow Vitamin",
+      "oldprice": "475.00",
+      "newprice": 428,
+      "ratings": "5",
+      "category": "skin",
+      "discount": "10% off"
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/e/3eb5e308904311902874_1.jpg",
+      "title": "Wow Skin Science Raw African Shea Body Butter",
+      "oldprice": "499.00",
+      "newprice": 440,
+      "ratings": "5",
+      "category": "skin",
+      "discount": "12% off",
+      "id": 2
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/a/9a262018906087777229__7_.jpg",
+      "title": "Mamaearth Vitamin C Nourishing Cold Cream For Face & Body With Vitamin C & Honey",
+      "oldprice": "299.00",
+      "newprice": 299,
+      "ratings": "5",
+      "category": "face",
+      "discount": "0% off",
+      "id": 3
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be3a2018906087777212__7_.jpg",
+      "title": "Mamaearth Ubtan Nourishing Cold Cream For Winter With Turmeric & Saffron For Glowing Moisturization",
+      "oldprice": "299.00",
+      "newprice": 299,
+      "ratings": "5",
+      "category": "face",
+      "discount": "0% off",
+      "id": 4
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/1/21_12_3.jpg",
+      "title": "Vaadi Herbals Chocolate & Strawberry Massage Gel - Pack Of 2",
+      "oldprice": "570.00",
+      "newprice": 570,
+      "ratings": "4",
+      "category": "face",
+      "discount": "0% off",
+      "id": 5
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/9/.9.jpg",
+      "title": "Ponds Super Light Gel Oil Free Moisturiser With Hyaluronic Acid + Vitamin E - Pack Of 2",
+      "oldprice": 598,
+      "newprice": "538.00",
+      "ratings": "5",
+      "category": "face",
+      "discount": "10% off",
+      "id": 6
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va32.jpg",
+      "title": "Vaadi Herbals 24 Carat Gold Massage Cream",
+      "oldprice": "295.00",
+      "newprice": 295,
+      "ratings": "5",
+      "category": "face",
+      "discount": "0% off",
+      "id": 7
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/o/5/o50.jpg",
+      "title": "O3+ Dermal Zone White Day Cream SPF 15",
+      "oldprice": "955.00",
+      "newprice": 898,
+      "ratings": "5",
+      "category": "face",
+      "discount": "6% off",
+      "id": 8
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/o/4/o43.jpg",
+      "title": "O3+ Cranberry D-Tan",
+      "oldprice": "1550.00",
+      "newprice": 1473,
+      "ratings": "5",
+      "category": "face",
+      "discount": "5% off",
+      "id": 9
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/8/288.jpg",
+      "title": "Himalaya Herbals Oil-Free Radiance Gel Cream",
+      "oldprice": "260.00",
+      "newprice": 260,
+      "ratings": "5",
+      "category": "face",
+      "discount": "0% off",
+      "id": 10
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/9/l9.jpg",
+      "title": "Lotus Professional Phyto-Rx Anti-Blemish Cream",
+      "oldprice": "695.00",
+      "newprice": 640,
+      "ratings": "5",
+      "category": "face",
+      "discount": "8% off",
+      "id": 11
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b20.jpg",
+      "title": "Bioderma Sensibio Forte",
+      "oldprice": "1392.00",
+      "newprice": 1281,
+      "ratings": "5",
+      "category": "skin",
+      "discount": "8% off",
+      "id": 12
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/j/1/j19.jpg",
+      "title": "Joy Intense Moisture Complete Dryness Repair Skin Cream",
+      "oldprice": "160.00",
+      "newprice": 160,
+      "ratings": "5",
+      "category": "skin",
+      "discount": "0% off",
+      "id": 13
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/o/l/ol37.jpg",
+      "title": "Olay Total Effects 7 In One Day Cream Normal SPF 15",
+      "oldprice": "899.00",
+      "newprice": 827,
+      "ratings": "5",
+      "category": "face",
+      "discount": "8% off",
+      "id": 14
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be52.jpg",
+      "title": "Beeone Almond Massage Cream",
+      "oldprice": "285.00",
+      "newprice": 285,
+      "ratings": "5",
+      "category": "massage",
+      "discount": "0% off",
+      "id": 15
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be42.jpg",
+      "title": "Beeone Cold Cream 900ml",
+      "oldprice": "300.00",
+      "newprice": 240,
+      "ratings": "5",
+      "category": "massage",
+      "discount": "20% off",
+      "id": 16
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/r/arom5.jpg",
+      "title": "Aroma Magic Passion Flower Massage Cream",
+      "oldprice": "295.00",
+      "newprice": 280,
+      "ratings": "5",
+      "category": "massage",
+      "discount": "5% off",
+      "id": 17
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be41.jpg",
+      "title": "Beeone Cold Cream",
+      "oldprice": "220.00",
+      "newprice": 171,
+      "ratings": "5",
+      "category": "body",
+      "discount": "22% off",
+      "id": 18
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/o/l/ol20.jpg",
+      "title": "Olay Regenerist Summer Power Duo With SPF 30 For Hydration (Moisturizer + Essence)",
+      "oldprice": "3298.00",
+      "newprice": 2968,
+      "ratings": "5",
+      "category": "face",
+      "discount": "10% off",
+      "id": 19
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/lo18.jpg",
+      "title": "Lotus Make-Up Ecostay Super Finish Mousse SPF 20",
+      "oldprice": "745.00",
+      "newprice": 670,
+      "ratings": "5",
+      "category": "face",
+      "discount": "10% off",
+      "id": 20
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/lo7.jpg",
+      "title": "Lotus Herbals Naturalglow Daily Tinted Moisturiser SPF 25 - Bright Angle",
+      "oldprice": "475.00",
+      "newprice": 403,
+      "ratings": "5",
+      "category": "face",
+      "discount": "15% off",
+      "id": 21
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/d/sdasdasdasdasdsa.jpg",
+      "title": "NIVEA Cocoa Butter Body Cream",
+      "oldprice": "275.00",
+      "newprice": 220,
+      "ratings": "5",
+      "category": "face",
+      "discount": "20% off",
+      "id": 22
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/z/x/zxaxsa.jpg",
+      "title": "Mamaearth CoCo Body Lotion With Coffee And Cocoa For Intense Moisturization",
+      "oldprice": "399.00",
+      "newprice": 335,
+      "ratings": "5",
+      "category": "face",
+      "discount": "16% off",
+      "id": 23
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/7/87iyujyuhj.jpg",
+      "title": "Joy Skin Fruits Fast Absorbing Light Moisturiser Cream",
+      "oldprice": "170.00",
+      "newprice": 170,
+      "ratings": "5",
+      "category": "face",
+      "discount": "0% off",
+      "id": 24
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/b/bbj0001918-2.jpg",
+      "title": "Lakme Sun Expert Spf 50 Pa+++ Ultra Matte Gel Sunscreen",
+      "oldprice": "325.00",
+      "newprice": 293,
+      "ratings": "5",
+      "category": "face",
+      "discount": "10% off",
+      "id": 25
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/8/9/8904311902027_1.jpg",
+      "title": "WOW Skin Science Hair Mask For Dry And Damaged Hair",
+      "oldprice": "549.00",
+      "newprice": 489,
+      "ratings": "0",
+      "category": "hair",
+      "discount": "11% off",
+      "id": 26
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/4/0/4045787429534.jpg",
+      "title": "Schwarzkopf Professional Bonacure Hyaluronic Moisture Kick Masque Treatment",
+      "oldprice": "1000.00",
+      "newprice": 950,
+      "ratings": "2",
+      "category": "hair",
+      "discount": "5% off",
+      "id": 27
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/o/n/onion-beard-oil_1.jpg",
+      "title": "Mamaearth Onion Beard Oil With Onion & Redensyl For Beard Growth",
+      "oldprice": "499.00",
+      "newprice": 449,
+      "ratings": "2",
+      "category": "hair",
+      "discount": "10% off",
+      "id": 28
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/7/a/7af639c8904311904274__1_.jpg",
+      "title": "WOW Skin Science Himalayan Rose Shampoo",
+      "oldprice": "449.00",
+      "newprice": 395,
+      "ratings": "2",
+      "category": "hair",
+      "discount": "12% off",
+      "id": 29
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/9/a/9a21c478906105615175-2.jpg",
+      "title": "WOW Skin Science Rice Hair Mask With Rice Water, Rice Keratin & Lavender Oil",
+      "oldprice": "499.00",
+      "newprice": 449,
+      "ratings": "2",
+      "category": "hair",
+      "discount": "10% off",
+      "id": 30
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/n/y/nywowbndl0064.jpg",
+      "title": "Wow Onion Hair Care Combo",
+      "oldprice": "1,597.00",
+      "newprice": 1437,
+      "ratings": "2",
+      "category": "hair",
+      "discount": "10% off",
+      "id": 31
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/l/o/lot1.jpg",
+      "title": "Lotus Herbals Baby + Eternal Love Baby Massage Oil",
+      "oldprice": "395.00",
+      "newprice": 348,
+      "ratings": "5",
+      "category": "Mom & Baby Care",
+      "discount": "12% off",
+      "id": 32
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/v/a/va126.jpg",
+      "title": "Mamaearth Milky Soft Body Lotion With Oats, Milk & Calendula",
+      "oldprice": "399.00",
+      "newprice": 347,
+      "ratings": "5",
+      "category": "Mom & Baby Care",
+      "discount": "13% off",
+      "id": 33
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/2/3/23_11_3.jpg",
+      "title": "Mamaearth Super Strawberry Body Lotion For Kids With Strawberry & Shea Butter",
+      "oldprice": "399.00",
+      "newprice": 351,
+      "ratings": "3",
+      "category": "Mom & Baby Care",
+      "discount": "12% off",
+      "id": 34
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/3/1/31_7_4.jpg",
+      "title": "Mamaearth Agent Apple Body Lotion For Kids With Apple & Oat Milk",
+      "oldprice": "399.00",
+      "newprice": 351,
+      "ratings": "0",
+      "category": "Mom & Baby Care",
+      "discount": "12% off",
+      "id": 35
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/3/5/35_3.jpg",
+      "title": "Mamaearth Awesome Orange Toothpaste For Kids - Pack Of 2",
+      "oldprice": "299.00",
+      "newprice": 299,
+      "ratings": "3",
+      "category": "Mom & Baby Care",
+      "discount": "0% off",
+      "id": 36
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/j/6/j6.jpg",
+      "title": "Joy Hydra Refresh Ultra Light Gel Moisturiser",
+      "oldprice": "170.00",
+      "newprice": 170,
+      "ratings": "3",
+      "category": "Ayurveda",
+      "discount": "0% off",
+      "id": 37
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/e/be69.jpg",
+      "title": "Beeone Gold Facial Gel",
+      "oldprice": "290.00",
+      "newprice": 230,
+      "ratings": "3",
+      "category": "Ayurveda",
+      "discount": "21% off",
+      "id": 38
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/3/b3.jpg",
+      "title": "Beeone Gold Facial Gel",
+      "oldprice": "375.00",
+      "newprice": 338,
+      "ratings": "3",
+      "category": "Ayurveda",
+      "discount": "10% off",
+      "id": 39
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/s/1/s1_1.jpg",
+      "title": "Shahnaz Husain Gold 2-In-1 Anti Ageing Gel",
+      "oldprice": "1,825.00",
+      "newprice": 1734,
+      "ratings": "3",
+      "category": "Ayurveda",
+      "discount": "5% off",
+      "id": 40
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/s/_/s_1.jpg",
+      "title": "Plum Green Tea Renewed Clarity Night Gel",
+      "oldprice": "575.00",
+      "newprice": 512,
+      "ratings": "3",
+      "category": "Ayurveda",
+      "discount": "11% off",
+      "id": 41
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/o/i/oily_sunscreen_spf_50-2.png",
+      "title": "Ponds Sun Protect Non-Oily Sunscreen SPF 50",
+      "oldprice": "329.00",
+      "newprice": 295,
+      "ratings": "3",
+      "category": "Personal Care",
+      "discount": "10% off",
+      "id": 42
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/e/e/eeeee_1.jpg",
+      "title": "Organic Harvest Rosemary Essential Oil",
+      "oldprice": "400.00",
+      "newprice": 360,
+      "ratings": "3",
+      "category": "Personal Care",
+      "discount": "10% off",
+      "id": 43
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/s/h/shower_gel.jpg",
+      "title": "Vaadi Herbals Luxurious Saffron Shower Gel",
+      "oldprice": "245.00",
+      "newprice": 245,
+      "ratings": "3",
+      "category": "Personal Care",
+      "discount": "0% off",
+      "id": 44
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/p/2/p2_1.jpg",
+      "title": "Pears Naturale Brightening Pomegranate Bodywash",
+      "oldprice": "197.00",
+      "newprice": 197,
+      "ratings": "3",
+      "category": "Personal Care",
+      "discount": "0% off",
+      "id": 45
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/e/be154.jpg",
+      "title": "Beeone Milk Sensitive Milky Wax",
+      "oldprice": "310.00",
+      "newprice": 279,
+      "ratings": "3",
+      "category": "Personal Care",
+      "discount": "10% off",
+      "id": 46
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/e/be157.jpg",
+      "title": "Beeone Strawberry Milky Wax",
+      "oldprice": "310.00",
+      "newprice": 279,
+      "ratings": "3",
+      "category": "Personal Care",
+      "discount": "10% off",
+      "id": 47
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/b/e/be161.jpg",
+      "title": "Beeone Green Apple Milky Wax",
+      "oldprice": "310.00",
+      "newprice": 248,
+      "ratings": "3",
+      "category": "Personal Care",
+      "discount": "20% off",
+      "id": 48
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/v/a/va109.jpg",
+      "title": "Mamaearth Vitamin C Nourishing Bathing Soap With Vitamin C And Honey For Skin Illumination",
+      "oldprice": "299.00",
+      "newprice": 299,
+      "ratings": "3",
+      "category": "Personal Care",
+      "discount": "0% off",
+      "id": 49
+    },
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/6/8/680c9508904311903031__1_.jpg",
+      "title": "WOW Skin Science Thai Body Massage Oil",
+      "oldprice": "599.00",
+      "newprice": 549,
+      "ratings": "3",
+      "category": "Personal Care",
+      "discount": "10% off",
+      "id": 50
+    }
+  ],
+  "skin": [
+    {
+      "id": 1,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/i/m/image1_600x.jpg",
+      "title": "Lotus Herbals Whiteglow Vitamin C Radiance Cream Spf 20",
+      "oldprice": "428.00",
+      "discount": "10% off",
+      "newprice": "475.00"
+    },
+    {
+      "id": 2,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/3699c478906105612174-2.jpg",
+      "title": "WOW Skin Science Caffeine Face Serum",
+      "oldprice": "515.00",
+      "discount": "14% off",
+      "newprice": "599.00"
+    },
+    {
+      "id": 3,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904304651284_1.jpg",
+      "title": "WOW Skin Science Activated Charcoal Face Scrub",
+      "oldprice": "375.00",
+      "discount": "0% off",
+      "newprice": "375.00"
+    },
+    {
+      "id": 4,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/activated_charcoal_face_mask2.jpg",
+      "title": "WOW Skin Science Activated Charcoal Face Mask",
+      "oldprice": "435.00",
+      "discount": "13% off",
+      "newprice": "499.00"
+    },
+    {
+      "id": 5,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/0/f0c4f25lotus00000014.jpg",
+      "title": "Lotus Organics+ Bakuchiol Plant Retinol Miracle Facial Oil",
+      "oldprice": "896.00",
+      "discount": "10% off",
+      "newprice": "995.00"
+    },
+    {
+      "id": 6,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/3/53f7f568906080030383_rvn1.jpg",
+      "title": "Organic Harvest Masseuscious Damage Control Cleanser With Acai Berry",
+      "oldprice": "1,420.00",
+      "discount": "5% off",
+      "newprice": "1,495.00"
+    },
+    {
+      "id": 7,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901495_1_1_.jpg",
+      "title": "WOW Skin Science AM2PM Sunscreen SPF 50 Lotion",
+      "oldprice": "385.00",
+      "discount": "0% off",
+      "newprice": "385.00"
+    },
+    {
+      "id": 8,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/d/fd794d08904304373124.jpg",
+      "title": "WOW Skin Science Activated Charcoal Peel Off Face Mask",
+      "oldprice": "399.00",
+      "discount": "0% off",
+      "newprice": "399.00"
+    },
+    {
+      "id": 9,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/l/flowers-of-youth-essence-serum_2_1.jpg",
+      "title": "Mamaearth Flowers of Youth Essence Serum with Hyaluronic Acid & Hibiscus for Youthful Skin",
+      "oldprice": "599.00",
+      "discount": "0% off",
+      "newprice": "599.00"
+    },
+    {
+      "id": 10,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/b/7ba61598904352001284_1.jpg",
+      "title": "Biotique Advanced Organics Tea Tree Treament Oil Essential Oil for Face",
+      "oldprice": "504.00",
+      "discount": "10% off",
+      "newprice": "560.00"
+    },
+    {
+      "id": 11,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901631_1.jpg",
+      "title": "WOW Skin Science Kids Cool-the-Rays Sunscreen Cream - SPF 30+ PA+++",
+      "oldprice": "349.00",
+      "discount": "0% off",
+      "newprice": "349.00"
+    },
+    {
+      "id": 12,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/e/3eb5e308904311902874_1.jpg",
+      "title": "WOW Skin Science Raw African Shea Body Butter",
+      "oldprice": "440.00",
+      "discount": "12% off",
+      "newprice": "499.00"
+    },
+    {
+      "id": 13,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/5/759639c8904311903499__1_.jpg",
+      "title": "WOW Skin Science Apple Cider Vinegar Face Wash Bottle",
+      "oldprice": "399.00",
+      "discount": "0% off",
+      "newprice": "399.00"
+    },
+    {
+      "id": 14,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/a/aae1c478906105612136-2.jpg",
+      "title": "WOW Skin Science Hyaluronic Acid Face Serum",
+      "oldprice": "630.00",
+      "discount": "10% off",
+      "newprice": "699.00"
+    },
+    {
+      "id": 15,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/0/70bf0be8904311901860_1.jpg",
+      "title": "WOW Skin Science Aloe Vera Multi-Vitamin Face Cream",
+      "oldprice": "540.00",
+      "discount": "10% off",
+      "newprice": "599.00"
+    },
+    {
+      "id": 16,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/e/ee32c478906105612372-2.jpg",
+      "title": "WOW Skin Science Ubtan Face Serum",
+      "oldprice": "540.00",
+      "discount": "10% off",
+      "newprice": "599.00"
+    },
+    {
+      "id": 17,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/d/8d895398904311905103__5_.jpg",
+      "title": "WOW Skin Science Himalayan Rose Foaming Face Wash with Built-in Face Brush WITH 50% EXTRA",
+      "oldprice": "391.00",
+      "discount": "13% off",
+      "newprice": "449.00"
+    },
+    {
+      "id": 18,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/1/61a4f818904311904076_1.jpg",
+      "title": "WOW Skin Science Green Tea Face Moisturizer",
+      "oldprice": "349.00",
+      "discount": "0% off",
+      "newprice": "349.00"
+    },
+    {
+      "id": 19,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg",
+      "title": "WOW Skin Science Pink Rose Clay Face Mask",
+      "oldprice": "449.00",
+      "discount": "10% off",
+      "newprice": "499.00"
+    },
+    {
+      "id": 20,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/3/232439c8904311903550__1_.jpg",
+      "title": "WOW Skin Science Ubtan Face Wash Bottle",
+      "oldprice": "399.00",
+      "discount": "0% off",
+      "newprice": "399.00"
+    },
+    {
+      "id": 21,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901587_1__1.jpg",
+      "title": "WOW Skin Science UV Water Transparent Sunscreen Spray SPF 30",
+      "oldprice": "399.00",
+      "discount": "0% off",
+      "newprice": "399.00"
+    },
+    {
+      "id": 22,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/b/9b82c478906105611962-2.jpg",
+      "title": "WOW Skin Science Himalayan Rose Body Lotion",
+      "oldprice": "399.00",
+      "discount": "0% off",
+      "newprice": "399.00"
+    },
+    {
+      "id": 23,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a093c478906105615038-2.jpg",
+      "title": "WOW Skin Science Aloe Vera Body Lotion Ultra Light Hydration - No Mineral Oil, Parabens",
+      "oldprice": "399.00",
+      "discount": "0% off",
+      "newprice": "399.00"
+    },
+    {
+      "id": 24,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg",
+      "title": "Lotus Organics+ Bakuchiol Plant Retinol Super Serum",
+      "oldprice": "986.00",
+      "discount": "10% off",
+      "newprice": "1,095.00"
+    },
+    {
+      "id": 25,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/b/5b9d6c8joyxx00000028_n1.jpg",
+      "title": "Joy Calming Stress Relief & Relaxing Lavender Body Serum Lotion",
+      "oldprice": "275.00",
+      "discount": "0% off",
+      "newprice": "275.00"
+    },
+    {
+      "id": 26,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/9/d9ec6c8joyxx00000038_n1.jpg",
+      "title": "Joy Natural Indulgent & Pampering Rose Body Serum Lotion",
+      "oldprice": "275.00",
+      "discount": "0% off",
+      "newprice": "275.00"
+    },
+    {
+      "id": 27,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/d/8d9c6c8joyxx00000027_n1.jpg",
+      "title": "Joy Relaxing Refreshing & Hydrating Green Tea Body Serum Lotion",
+      "oldprice": "275.00",
+      "discount": "0% off",
+      "newprice": "275.00"
+    },
+    {
+      "id": 28,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/3/731c6c8joyxx00000009_n1.jpg",
+      "title": "Joy Vitamin C Glow Reviving & Skin Brightening Gel For Face & Body",
+      "oldprice": "299.00",
+      "discount": "0% off",
+      "newprice": "299.00"
+    },
+    {
+      "id": 29,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/4/e4236c8joyxx00000024_n1.jpg",
+      "title": "Joy Revivify Activated Charcoal Deep Detoxifying & Purifying Mask",
+      "oldprice": "265.00",
+      "discount": "0% off",
+      "newprice": "265.00"
+    },
+    {
+      "id": 30,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/a/2abe6c8joyxx00000023_n1.jpg",
+      "title": "Joy Revivify Green Clay Mask Pore Clarifying & Pollution Defense Mask",
+      "oldprice": "265.00",
+      "discount": "0% off",
+      "newprice": "265.00"
+    },
+    {
+      "id": 31,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/6/76bdacd8992304017810_0.jpg",
+      "title": "LOreal Paris Revitalift Anti Wrinkle + Radiance Eye Cream",
+      "oldprice": "515.00",
+      "discount": "9% off",
+      "newprice": "565.00"
+    },
+    {
+      "id": 32,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/511e948lorea00000092_2.jpg",
+      "title": "L'Oreal Paris Revitalift Hyaluronic Acid Plumping Day Cream",
+      "oldprice": "464.00",
+      "discount": "7% off",
+      "newprice": "499.00"
+    },
+    {
+      "id": 33,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/8/583d5ae4005808353149new.jpg",
+      "title": "NIVEA Body Lotion for Normal Skin, Express Hydration, for Fast Absorption",
+      "oldprice": "367.00",
+      "discount": "8% off",
+      "newprice": "399.00"
+    },
+    {
+      "id": 34,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/5/a5c9a458906080039225_1.jpg",
+      "title": "Organic Harvest Vitamin B Organic Face Serum with Spinach & Niacinamide",
+      "oldprice": "731.00",
+      "discount": "8% off",
+      "newprice": "795.00"
+    },
+    {
+      "id": 35,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/a/8ada0a1joyxx00000032_2.jpg",
+      "title": "Joy Revivify Hyaluronic + Hydra Boosting Intensive Repair Ultimate Hydrating Serum",
+      "oldprice": "315.00",
+      "discount": "10% off",
+      "newprice": "349.00"
+    },
+    {
+      "id": 36,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/acf40a1joyxx00000031_2.jpg",
+      "title": "Joy Revivify Retinol + Eternal Youth Age Defying Skin Firming Serum",
+      "oldprice": "315.00",
+      "discount": "10% off",
+      "newprice": "349.00"
+    },
+    {
+      "id": 37,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/c/fcab0a1joyxx00000034_1.jpg",
+      "title": "Joy Revivify AHA + BHA Glow Revealing Even Tone Skin Refiling Serum",
+      "oldprice": "315.00",
+      "discount": "10% off",
+      "newprice": "349.00"
+    },
+    {
+      "id": 38,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/f/af610a1joyxx00000033_2.jpg",
+      "title": "Joy Revivify Collagen + Nutrition Surge Night Repair Moisture Restoring Serum",
+      "oldprice": "315.00",
+      "discount": "10% off",
+      "newprice": "349.00"
+    },
+    {
+      "id": 39,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/c/3c9c0a1joyxx00000030_2.jpg",
+      "title": "Joy Revivify Vitamin C + Bright Radiance Spot Reduction Skin Brightening Serum",
+      "oldprice": "315.00",
+      "discount": "10% off",
+      "newprice": "349.00"
+    },
+    {
+      "id": 40,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/3/43a6fecnivea00000064_1.jpg",
+      "title": "Nivea Soft Light Moisturizer Cream Peppy Pomegranate For Hands And Body",
+      "oldprice": "325.00",
+      "discount": "0% off",
+      "newprice": "325.00"
+    },
+    {
+      "id": 41,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/f/cf7485b4005900144652_1.jpg",
+      "title": "NIVEA Refreshing Aloe Hydration Cream for Face- Body & Hands",
+      "oldprice": "299.00",
+      "discount": "0% off",
+      "newprice": "299.00"
+    },
+    {
+      "id": 42,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/0/6005fecnivea00000061_1.jpg",
+      "title": "Nivea Soft Light Moisturizer Cream Playful Peach For Hands And Body",
+      "oldprice": "325.00",
+      "discount": "0% off",
+      "newprice": "325.00"
+    }
+  ],
+  "hair": [
+    {
+      "id": 1,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/r/e/repair_shampoo_650-2_1_1.jpg",
+      "title": "Dove Intense Repair Shampoo 650ml",
+      "oldprice": "350.00",
+      "discount": "30% off",
+      "newprice": "500.00"
+    },
+    {
+      "id": 2,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/f/efbafe2nywow000083__1_.jpg",
+      "title": "WOW Skin Science 10 In 1 Miracle Hair Oil",
+      "oldprice": "515.00",
+      "discount": "14% off",
+      "newprice": "599.00"
+    },
+    {
+      "id": 3,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/8/88b239c8904311904281__1_.jpg",
+      "title": "WOW Skin Science Himalayan Rose Conditioner",
+      "oldprice": "395.00",
+      "discount": "12% off",
+      "newprice": "449.00"
+    },
+    {
+      "id": 4,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/4/d4fb39c8904311904267__1_.jpg",
+      "title": "WOW Skin Science Moroccan Argan Hair Oil - WITH COMB APPLICATOR - Cold Pressed",
+      "oldprice": "349.00",
+      "discount": "0% off",
+      "newprice": "349.00"
+    },
+    {
+      "id": 5,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/a/9a21c478906105615175-2.jpg",
+      "title": "WOW Skin Science Rice Hair Mask With Rice Water, Rice Keratin & Lavender Oil",
+      "oldprice": "449.00",
+      "discount": "10% off",
+      "newprice": "499.00"
+    },
+    {
+      "id": 6,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51x4yt0-ucl._sl1000_.jpg",
+      "title": "Joy Natural Actives Dandruff Control and Scalp Nourish Hair Treatment Mask | With Argan, Ginger, Lemon, Olive & Tea Tree Oils",
+      "oldprice": "295.00",
+      "discount": "0% off",
+      "newprice": "295.00"
+    },
+    {
+      "id": 7,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51wck34jr0l._sl1000_.jpg",
+      "title": "Joy Natural Actives Anti Hair fall and Damage Control Hair Treatment Mask",
+      "oldprice": "295.00",
+      "discount": "0% off",
+      "newprice": "295.00"
+    },
+    {
+      "id": 8,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311903680_1.jpg",
+      "title": "WOW Skin Science Green Tea & Tea Tree Anti-Dandruff Shampoo",
+      "oldprice": "429.00",
+      "discount": "14% off",
+      "newprice": "499.00"
+    },
+    {
+      "id": 9,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/0/e08092aorgaa00000032_p.jpg",
+      "title": "Organic Harvests Color Protect Quinoa Shampoo, Sulfate-free Shampoo For Color-treated Hair",
+      "oldprice": "364.00",
+      "discount": "8% off",
+      "newprice": "395.00"
+    },
+    {
+      "id": 10,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/t/e/tea-tree-beard-oil_1.jpg",
+      "title": "Mamaearth Tea Tree Beard Oil With Tea Tree & Salicylic Acid For Itch-Free Beard",
+      "oldprice": "449.00",
+      "discount": "10% off",
+      "newprice": "499.00"
+    },
+    {
+      "id": 11,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/o/n/onion-beard-oil_1.jpg",
+      "title": "Mamaearth Onion Beard Oil with Onion & Redensyl For Beard Growth",
+      "oldprice": "449.00",
+      "discount": "10% off",
+      "newprice": "499.00"
+    },
+    {
+      "id": 12,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/l/almond-beard-oil_1.jpg",
+      "title": "Mamaearth Almond Beard Oil with Almond & Biotin For Beard Nourishment",
+      "oldprice": "449.00",
+      "discount": "10% off",
+      "newprice": "499.00"
+    },
+    {
+      "id": 13,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/1/71utdazxekl._sl1500_.jpg",
+      "title": "Schwarzkopf Osis+ Curl Honey Curl Cream",
+      "oldprice": "698.00",
+      "discount": "7% off",
+      "newprice": "750.00"
+    },
+    {
+      "id": 14,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429534.jpg",
+      "title": "Schwarzkopf Professional Bonacure Hyaluronic Moisture Kick Masque Treatment",
+      "oldprice": "950.00",
+      "discount": "5% off",
+      "newprice": "1,000.00"
+    },
+    {
+      "id": 15,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429633_2.jpg",
+      "title": "Schwarzkopf Professional Bonacure Collagen Volume Boost Micellar Shampoo",
+      "oldprice": "846.00",
+      "discount": "6% off",
+      "newprice": "900.00"
+    },
+    {
+      "id": 16,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429138.jpg",
+      "title": "Schwarzkopf Professional Bonacure Hyaluronic Moisture Kick Micellar Shampoo",
+      "oldprice": "846.00",
+      "discount": "6% off",
+      "newprice": "900.00"
+    },
+    {
+      "id": 17,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787232233_1.jpg",
+      "title": "Schwarzkopf Professional Osis + Session Label Strong Hold Hair Super Dry Fix Spray",
+      "oldprice": "698.00",
+      "discount": "7% off",
+      "newprice": "750.00"
+    },
+    {
+      "id": 18,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787314908_1.jpg",
+      "title": "Schwarzkopf Professional OSiS+ Flatliner Heat Protection Hair Spray",
+      "oldprice": "814.00",
+      "discount": "7% off",
+      "newprice": "875.00"
+    },
+    {
+      "id": 19,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787430523_2.jpg",
+      "title": "Schwarzkopf Professional Bonacure Peptide Repair Rescue Sealed Ends",
+      "oldprice": "400.00",
+      "discount": "0% off",
+      "newprice": ""
+    },
+    {
+      "id": 20,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787430646_2_1.jpg",
+      "title": "Schwarzkopf Professional Bonacure Peptide Repair Rescue Nutri-Shield Serum",
+      "oldprice": "691.00",
+      "discount": "6% off",
+      "newprice": "735.00"
+    },
+    {
+      "id": 21,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/accc6918906087777182_1.jpg",
+      "title": "Mamaearth Cold Pressed Almond Oil & Vitamin E For Healthy Hair Growth",
+      "oldprice": "360.00",
+      "discount": "10% off",
+      "newprice": "399.00"
+    },
+    {
+      "id": 22,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/d/9d026918906087777199_7.jpg",
+      "title": "Mamaearth Almond Shampoo With Almond Oil And Vitamin E",
+      "oldprice": "349.00",
+      "discount": "0% off",
+      "newprice": "349.00"
+    },
+    {
+      "id": 23,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429695_2.jpg",
+      "title": "Schwarzkopf Professional Bonacure Keratin Smooth Perfect Masque Treatment",
+      "oldprice": "930.00",
+      "discount": "7% off",
+      "newprice": "1,000.00"
+    },
+    {
+      "id": 24,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/l/almond-conditioner_1.jpg",
+      "title": "Almond Conditioner with Almond Oil & Vitamin E for Healthy Hair Growth",
+      "oldprice": "349.00",
+      "discount": "0% off",
+      "newprice": "349.00"
+    },
+    {
+      "id": 25,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/2/a23342b8904311901235_1.jpg",
+      "title": "WOW Skin Science Moroccan Argan Oil Hair Conditioner",
+      "oldprice": "527.00",
+      "discount": "12% off",
+      "newprice": "599.00"
+    },
+    {
+      "id": 26,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311902027_1.jpg",
+      "title": "WOW Skin Science Hair Mask For Dry and Damaged Hair",
+      "oldprice": "489.00",
+      "discount": "11% off",
+      "newprice": "549.00"
+    },
+    {
+      "id": 27,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311900788_1_1.jpg",
+      "title": "WOW Skin Science Moroccan Argan Oil Shampoo - 300ml",
+      "oldprice": "489.00",
+      "discount": "11% off",
+      "newprice": "549.00"
+    },
+    {
+      "id": 28,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/n/y/nywowbndl0064.jpg",
+      "title": "Wow Onion Hair Care Combo",
+      "oldprice": "1,437.00",
+      "discount": "10% off",
+      "newprice": "1,597.00"
+    },
+    {
+      "id": 29,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904304495512_1_.jpg",
+      "title": "WOW Skin Science Coconut Milk Hair Conditioner",
+      "oldprice": "435.00",
+      "discount": "13% off",
+      "newprice": "499.00"
+    },
+    {
+      "id": 30,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/a/7af639c8904311904274__1_.jpg",
+      "title": "WOW Skin Science Himalayan Rose Shampoo",
+      "oldprice": "395.00",
+      "discount": "12% off",
+      "newprice": "449.00"
+    },
+    {
+      "id": 31,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311900009_1_.jpg",
+      "title": "WOW Skin Science Hair Loss Control Therapy Shampoo",
+      "oldprice": "435.00",
+      "discount": "13% off",
+      "newprice": "499.00"
+    },
+    {
+      "id": 32,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/n/y/nywowbndl0052n.jpg",
+      "title": "WOW Skin Science Onion Black Seed Oil Ultimate Hair Care Kit",
+      "oldprice": "1,437.00",
+      "discount": "10% off",
+      "newprice": "1,597.00"
+    },
+    {
+      "id": 33,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/e/ce32bed8906105613409_1.jpg",
+      "title": "WOW Skin Science Amla Shampoo For Weak Roots & Thin Damage Prone Hair",
+      "oldprice": "395.00",
+      "discount": "12% off",
+      "newprice": "449.00"
+    },
+    {
+      "id": 34,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/6/e62cbed8906105615151_1.jpg",
+      "title": "WOW Skin Science Rice Water Conditioner With Rice Water, Rice Keratin & Lavender Oil",
+      "oldprice": "386.00",
+      "discount": "14% off",
+      "newprice": "449.00"
+    },
+    {
+      "id": 35,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311902140_1_.jpg",
+      "title": "WOW Skin Science Red Onion Black Seed Oil Hair Conditioner",
+      "oldprice": "435.00",
+      "discount": "13% off",
+      "newprice": "499.00"
+    },
+    {
+      "id": 36,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/3/63aebed8906105615144_1.jpg",
+      "title": "WOW Skin Science Rice Water Shampoo With Rice Water, Rice Keratin & Lavender Oil",
+      "oldprice": "391.00",
+      "discount": "13% off",
+      "newprice": "449.00"
+    },
+    {
+      "id": 37,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/5/45836838904311901792__1_.jpg",
+      "title": "WOW Skin Science Red Onion Black Seed Hair Serum",
+      "oldprice": "399.00",
+      "discount": "0% off",
+      "newprice": ""
+    },
+    {
+      "id": 38,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/d/9d9efa68904311902348_1.jpg",
+      "title": "WOW Skin Science Red Onion Black Seed Oil Hair Mask",
+      "oldprice": "435.00",
+      "discount": "13% off",
+      "newprice": "499.00"
+    },
+    {
+      "id": 39,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/6/16_17_5.jpg",
+      "title": "Schwarzkopf Professional Bonacure Peptide Repair Rescue Micellar Shampoo",
+      "oldprice": "837.00",
+      "discount": "7% off",
+      "newprice": "900.00"
+    },
+    {
+      "id": 40,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/4/14_16_8.jpg",
+      "title": "Schwarzkopf Professional SPA Essence Enriching Cream Masque",
+      "oldprice": "627.00",
+      "discount": "5% off",
+      "newprice": "660.00"
+    },
+    {
+      "id": 41,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/3/13_17_8.jpg",
+      "title": "Schwarzkopf Professional Osis+ Magic Anti Frizz Shine Serum",
+      "oldprice": "884.00",
+      "discount": "7% off",
+      "newprice": "950.00"
+    },
+    {
+      "id": 42,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/2/12_34_7.jpg",
+      "title": "Schwarzkopf Professional Bonacure Keratin Smooth Perfect Conditioner",
+      "oldprice": "837.00",
+      "discount": "7% off",
+      "newprice": "900.00"
+    }
+  ],
+  "personal_care": [
+    {
+      "id": 1,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8908003416557_1.png",
+      "title": "Organic Harvest Cleansing Milk With Essential Oils",
+      "oldprice": "491.00",
+      "discount": "10% off",
+      "newprice": "545.00"
+    },
+    {
+      "id": 2,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/8/680c9508904311903031__1_.jpg",
+      "title": "WOW Skin Science Thai Body Massage Oil",
+      "oldprice": "540.00",
+      "discount": "10% off",
+      "newprice": "599.00"
+    },
+    {
+      "id": 3,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/c/cca52498904311901341_1.jpg",
+      "title": "WOW Skin Science Moroccan Rose Otto Foaming Body Wash",
+      "oldprice": "339.00",
+      "discount": "0% off",
+      "newprice": "339.00"
+    },
+    {
+      "id": 4,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/407c3408908003416601_1.jpg",
+      "title": "Organic Harvest Lavender Essential Oil",
+      "oldprice": "405.00",
+      "discount": "10% off",
+      "newprice": "450.00"
+    },
+    {
+      "id": 5,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/c/dcc62fd8904311902386_1.jpg",
+      "title": "WOW Skin Science Ubtan Body Wash",
+      "oldprice": "339.00",
+      "discount": "0% off",
+      "newprice": "339.00"
+    },
+    {
+      "id": 6,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va109.jpg",
+      "title": "Mamaearth Vitamin C Nourishing Bathing Soap With Vitamin C And Honey For Skin Illumination",
+      "oldprice": "299.00",
+      "discount": "0% off",
+      "newprice": "299.00"
+    },
+    {
+      "id": 7,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va106.jpg",
+      "title": "Mamaearth Coco Nourishing Bathing Soap With Coffee & Cocoa",
+      "oldprice": "299.00",
+      "discount": "0% off",
+      "newprice": "299.00"
+    },
+    {
+      "id": 8,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va103.jpg",
+      "title": "Mamaearth Tea Tree Nourishing Bathing Soap With Tea Tree And Neem For Skin Purification",
+      "oldprice": "299.00",
+      "discount": "0% off",
+      "newprice": "299.00"
+    },
+    {
+      "id": 9,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va101.jpg",
+      "title": "Mamaearth Ubtan Nourishing Bathing Soap With Turmeric & Saffron",
+      "oldprice": "299.00",
+      "discount": "0% off",
+      "newprice": "299.00"
+    },
+    {
+      "id": 10,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va99.jpg",
+      "title": "Mamaearth Natural Nourishing Bathing Soaps",
+      "oldprice": "299.00",
+      "discount": "0% off",
+      "newprice": "299.00"
+    },
+    {
+      "id": 11,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va92.jpg",
+      "title": "Mamaearth Charcoal Nourishing Bathing Soap With Charcoal And Mint For Deep Cleansing",
+      "oldprice": "299.00",
+      "discount": "0% off",
+      "newprice": "299.00"
+    },
+    {
+      "id": 12,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/9/.9.jpg",
+      "title": "Ponds Super Light Gel Oil Free Moisturiser With Hyaluronic Acid + Vitamin E - pack of 2",
+      "oldprice": "538.00",
+      "discount": "10% off",
+      "newprice": "598.00"
+    },
+    {
+      "id": 13,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va15.jpg",
+      "title": "Vaadi Herbals Enticing Lemongrass Shower Gel",
+      "oldprice": "230.00",
+      "discount": "0% off",
+      "newprice": "230.00"
+    },
+    {
+      "id": 14,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va11.jpg",
+      "title": "Vaadi Herbals Breezy Olive & Green Apple Shower Gel",
+      "oldprice": "230.00",
+      "discount": "0% off",
+      "newprice": "230.00"
+    },
+    {
+      "id": 15,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be219.jpg",
+      "title": "Vaadi Herbals Refreshing Lemon & Basil Shower Gel",
+      "oldprice": "245.00",
+      "discount": "0% off",
+      "newprice": "245.00"
+    },
+    {
+      "id": 16,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be211.jpg",
+      "title": "Vaadi Herbals Enchanting Rose & Mogra Shower Gel",
+      "oldprice": "245.00",
+      "discount": "0% off",
+      "newprice": "245.00"
+    },
+    {
+      "id": 17,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be186.jpg",
+      "title": "O3+ D-tan Liposoluble Wax (italian Formula)",
+      "oldprice": "911.00",
+      "discount": "8% off",
+      "newprice": "990.00"
+    },
+    {
+      "id": 18,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be168.jpeg",
+      "title": "Beeone Professional Aloevera Liposoluble Wax",
+      "oldprice": "842.00",
+      "discount": "15% off",
+      "newprice": "990.00"
+    },
+    {
+      "id": 19,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be167.jpeg",
+      "title": "Beeone Professional Argan Oil Liposoluble Wax",
+      "oldprice": "842.00",
+      "discount": "15% off",
+      "newprice": "990.00"
+    },
+    {
+      "id": 20,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be166.jpeg",
+      "title": "BeeOne Professional Charcoal Liposoluble Wax",
+      "oldprice": "842.00",
+      "discount": "15% off",
+      "newprice": "990.00"
+    },
+    {
+      "id": 21,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be165.jpeg",
+      "title": "BeeOne Professional Avocado Liposoluble Wax",
+      "oldprice": "842.00",
+      "discount": "15% off",
+      "newprice": "990.00"
+    },
+    {
+      "id": 22,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be164.jpeg",
+      "title": "BeeOne Professional De Tan Liposoluble Wax",
+      "oldprice": "842.00",
+      "discount": "15% off",
+      "newprice": "990.00"
+    },
+    {
+      "id": 23,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be163.jpeg",
+      "title": "BeeOne Professional Dark Chocolate Liposoluble Wax",
+      "oldprice": "842.00",
+      "discount": "15% off",
+      "newprice": "990.00"
+    },
+    {
+      "id": 24,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be162.jpeg",
+      "title": "BeeOne Professional White Chocolate Liposoluble Wax",
+      "oldprice": "842.00",
+      "discount": "15% off",
+      "newprice": "990.00"
+    },
+    {
+      "id": 25,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be161.jpg",
+      "title": "Beeone Green Apple Milky Wax",
+      "oldprice": "1,825.00",
+      "discount": "20% off",
+      "newprice": "310.00"
+    },
+    {
+      "id": 26,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be160.jpg",
+      "title": "BEEONE Fairness Milky Wax",
+      "oldprice": "279.00",
+      "discount": "10% off",
+      "newprice": "310.00"
+    },
+    {
+      "id": 27,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be159.jpg",
+      "title": "Beeone Bridal Milky Wax",
+      "oldprice": "248.00",
+      "discount": "20% off",
+      "newprice": "310.00"
+    },
+    {
+      "id": 28,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be158.jpg",
+      "title": "Beeone Banana Milky Wax",
+      "oldprice": "248.00",
+      "discount": "20% off",
+      "newprice": "310.00"
+    },
+    {
+      "id": 29,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be157.jpg",
+      "title": "Beeone Strawberry Milky Wax",
+      "oldprice": "279.00",
+      "discount": "10% off",
+      "newprice": "310.00"
+    },
+    {
+      "id": 30,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be156.jpg",
+      "title": "Beeone Pearl Milky Wax",
+      "oldprice": "248.00",
+      "discount": "20% off",
+      "newprice": "310.00"
+    },
+    {
+      "id": 31,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be155.jpg",
+      "title": "Beeone Orange Milky Wax",
+      "oldprice": "248.00",
+      "discount": "20% off",
+      "newprice": "310.00"
+    },
+    {
+      "id": 32,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be154.jpg",
+      "title": "Beeone Milk Sensitive Milky Wax",
+      "oldprice": "279.00",
+      "discount": "10% off",
+      "newprice": "310.00"
+    },
+    {
+      "id": 33,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/3/c35.jpg",
+      "title": "Colorbar Body Wash & Shower Gel - Malibu Sunset",
+      "oldprice": "311.00",
+      "discount": "10% off",
+      "newprice": "345.00"
+    },
+    {
+      "id": 34,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/3/c34.jpg",
+      "title": "Colorbar Body Wash & Shower Gel - Toast To Tahiti",
+      "oldprice": "311.00",
+      "discount": "10% off",
+      "newprice": "345.00"
+    },
+    {
+      "id": 35,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/1/s10.jpg",
+      "title": "Fiama Blackcurrant & Bearberry Shower Gel - 500ml",
+      "oldprice": "359.00",
+      "discount": "10% off",
+      "newprice": "399.00"
+    },
+    {
+      "id": 36,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/p/8/p8_1.jpg",
+      "title": "Pears Oil Clear & Glow Body Wash",
+      "oldprice": "197.00",
+      "discount": "0% off",
+      "newprice": "197.00"
+    },
+    {
+      "id": 37,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/p/5/p5_1.jpg",
+      "title": "Pears Naturale Detoxifying Aloevera Bodywash",
+      "oldprice": "197.00",
+      "discount": "0% off",
+      "newprice": "197.00"
+    },
+    {
+      "id": 38,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/p/2/p2_1.jpg",
+      "title": "Pears Naturale Brightening Pomegranate Bodywash",
+      "oldprice": "197.00",
+      "discount": "0% off",
+      "newprice": "197.00"
+    },
+    {
+      "id": 39,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/o/do10.jpg",
+      "title": "Dove Deeply Nourishing Body Wash",
+      "oldprice": "359.00",
+      "discount": "9% off",
+      "newprice": "395.00"
+    },
+    {
+      "id": 40,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/j/2/j23.jpg",
+      "title": "Joy Mandarin & Green Tea Skin Purifying & Radiant Glow Brightening Scrub",
+      "oldprice": "250.00",
+      "discount": "0% off",
+      "newprice": "250.00"
+    },
+    {
+      "id": 41,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/j/2/j21.jpg",
+      "title": "Joy Spearmint & Eucalyptus Mood Uplifting & Skin Softening Stress Relief Scrub",
+      "oldprice": "299.00",
+      "discount": "0% off",
+      "newprice": "299.00"
+    },
+    {
+      "id": 42,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/j/1/j17.jpg",
+      "title": "Joy Tea Tree & Activated Charcoal Deep Detoxifying & Sebum Control Purifying Scrub",
+      "oldprice": "250.00",
+      "discount": "0% off",
+      "newprice": "250.00"
+    }
+  ],
+  "fragrance": [
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/8/s8.jpg",
+      "title": "Calvin Klein Eternity For Men Eau De Parfum",
+      "oldprice": "3,468.00",
+      "discount": "5% off",
+      "newprice": "3,650.00",
+      "id": 1
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo21.jpg",
+      "title": "Fogg Bleu Series Island Fragrance Body Spray",
+      "oldprice": "255.00",
+      "discount": "0% off",
+      "newprice": "255.00",
+      "id": 2
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo20.jpg",
+      "title": "Fogg Force Fragrance Body Spray",
+      "oldprice": "230.00",
+      "discount": "0% off",
+      "newprice": "230.00",
+      "id": 3
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo19.jpg",
+      "title": "Fogg Punch Fragrance Body Spray",
+      "oldprice": "230.00",
+      "discount": "0% off",
+      "newprice": "230.00",
+      "id": 4
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo18.jpg",
+      "title": "Fogg Bleu Series Mountain Fragrance Body Spray",
+      "oldprice": "255.00",
+      "discount": "0% off",
+      "newprice": "255.00",
+      "id": 5
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo17.jpg",
+      "title": "Fogg Rush Fragrance Body Spray",
+      "oldprice": "230.00",
+      "discount": "",
+      "newprice": "230.00",
+      "id": 6
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo16.jpg",
+      "title": "Fogg Bleu Skies Fragrance Body Spray",
+      "oldprice": "275.00",
+      "discount": "0% off",
+      "newprice": "275.00",
+      "id": 7
+    },
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo15.jpg",
+      "title": "Fogg Scent Intensio Men Fragrance Body Spray",
+      "oldprice": "539.00",
+      "discount": "10% off",
+      "newprice": "599.00",
+      "id": 8
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo13.jpg",
+      "title": "Fogg Master Cedar Body Spray",
+      "oldprice": "275.00",
+      "discount": "0% off",
+      "newprice": "275.00",
+      "id": 9
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo12.jpg",
+      "title": "Fogg Black Fresh Aromatic Fragrance Body Spray",
+      "oldprice": "250.00",
+      "discount": "0% off",
+      "newprice": "250.00",
+      "id": 10
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo10.jpg",
+      "title": "Fogg Master Agar Body Spray",
+      "oldprice": "275.00",
+      "discount": "0% off",
+      "newprice": "275.00",
+      "id": 11
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo9.jpg",
+      "title": "Fogg Black Fresh Fougere Body Spray Deodorant For Men",
+      "oldprice": "250.00",
+      "discount": "0% off",
+      "newprice": "250.00",
+      "id": 12
+    },
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo8.jpg",
+      "title": "Fogg Scent Xpressio Men Fragrance Body Spray",
+      "oldprice": "539.00",
+      "discount": "10% off",
+      "newprice": "599.00",
+      "id": 13
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo7.jpg",
+      "title": "Fogg Dynamic Fragrance Body Spray",
+      "oldprice": "250.00",
+      "discount": "0% off",
+      "newprice": "250.00",
+      "id": 14
+    },
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo6.jpg",
+      "title": "Fogg Scent Xtremo Men Fragrance Body Spray",
+      "oldprice": "539.00",
+      "discount": "10% off",
+      "newprice": "599.00",
+      "id": 15
+    },
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo5.jpg",
+      "title": "Fogg Black Fresh Spicy Body Spray Deodorant For Men",
+      "oldprice": "234.00",
+      "discount": "15% off",
+      "newprice": "275.00",
+      "id": 16
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo3.jpg",
+      "title": "Fogg Master Oak Body Spray",
+      "oldprice": "275.00",
+      "discount": "0% off",
+      "newprice": "275.00",
+      "id": 17
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo1.jpg",
+      "title": "Fogg Master Pine Body Spray",
+      "oldprice": "275.00",
+      "discount": "0% off",
+      "newprice": "275.00",
+      "id": 18
+    },
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/r/r/rr.jpg",
+      "title": "Fogg Scent Beautiful Secret Women Fragrance Body Spray",
+      "oldprice": "539.00",
+      "discount": "10% off",
+      "newprice": "599.00",
+      "id": 19
+    },
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/5/e55.jpg",
+      "title": "Engage Yin Eau de Parfum For Men",
+      "oldprice": "459.00",
+      "discount": "8% off",
+      "newprice": "499.00",
+      "id": 20
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/5/e54.jpg",
+      "title": "Engage Sport Cool Deodorant For Women, Citrus & Spicy, Skin Friendly",
+      "oldprice": "195.00",
+      "discount": "0% off",
+      "newprice": "195.00",
+      "id": 21
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/5/e52.jpg",
+      "title": "Engage Sport Fresh Deodorant For Women",
+      "oldprice": "195.00",
+      "discount": "",
+      "newprice": "195.00",
+      "id": 22
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/5/e51.jpg",
+      "title": "Engage Spell Deodorant For Women",
+      "oldprice": "210.00",
+      "discount": "0% off",
+      "newprice": "210.00",
+      "id": 23
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/4/e49.jpg",
+      "title": "Engage W1 Perfume Spray For Women",
+      "oldprice": "225.00",
+      "discount": "0% off",
+      "newprice": "210.00",
+      "id": 24
+    },
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d37.jpg",
+      "title": "Denver Esteem Hamilton Perfume",
+      "oldprice": "448.00",
+      "discount": "10% off",
+      "newprice": "499.00",
+      "id": 25
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d36.jpg",
+      "title": "Denver Noble Hamilton Deodorant Body Spray",
+      "oldprice": "220.00",
+      "discount": "0% off",
+      "newprice": "210.00",
+      "id": 26
+    },
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d35.jpg",
+      "title": "Denver Imperial Deodorant For Men",
+      "oldprice": "212.00",
+      "discount": "15% off",
+      "newprice": "249.00",
+      "id": 27
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d34.jpg",
+      "title": "Denver Prestige Deodorant For Men - Hamilton",
+      "oldprice": "249.00",
+      "discount": "0% off",
+      "newprice": "249.00",
+      "id": 28
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d33.jpg",
+      "title": "Denver Honour Hamilton Deo",
+      "oldprice": "249.00",
+      "discount": "0% off",
+      "newprice": "249.00",
+      "id": 29
+    },
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d32.jpg",
+      "title": "Denver SRK Emperor Deodorant Autograph Collection - 150ml",
+      "oldprice": "212.00",
+      "discount": "15% off",
+      "newprice": "249.00",
+      "id": 30
+    },
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d31.jpg",
+      "title": "Denver Sporting Club Goal Perfume - 60ml",
+      "oldprice": "257.00",
+      "discount": "14% off",
+      "newprice": "299.00",
+      "id": 31
+    },
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d30.jpg",
+      "title": "Denver Insight Eau De Perfume",
+      "oldprice": "448.00",
+      "discount": "10% off",
+      "newprice": "499.00",
+      "id": 32
+    },
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/2/d29.jpg",
+      "title": "Denver Sporting Club Rider Deo",
+      "oldprice": "179.00",
+      "discount": "15% off",
+      "newprice": "210.00",
+      "id": 33
+    },
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/2/d28.jpg",
+      "title": "Denver Hamilton Caliber Perfume - 100ml",
+      "oldprice": "448.00",
+      "discount": "10% off",
+      "newprice": "499.00",
+      "id": 34
+    },
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/2/d27.jpg",
+      "title": "Denver Sporting Club - Victor Deo - 165ml",
+      "oldprice": "179.00",
+      "discount": "15% off",
+      "newprice": "210.00",
+      "id": 35
+    },
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/2/d26.png",
+      "title": "Denver Hamilton Imperial Perfume",
+      "oldprice": "257.00",
+      "discount": "14% off",
+      "newprice": "299.00",
+      "id": 36
+    },
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/2/d25.jpg",
+      "title": "Denver Royal Oud Deo - Hamilton",
+      "oldprice": "179.00",
+      "discount": "15% off",
+      "newprice": "210.00",
+      "id": 37
+    },
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/2/d24.jpg",
+      "title": "Denver Hamilton Imperial Perfume - 100ml",
+      "oldprice": "448.00",
+      "discount": "10% off",
+      "newprice": "499.00",
+      "id": 38
+    },
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/2/d23.jpg",
+      "title": "Denver Hamilton Deo",
+      "oldprice": "212.00",
+      "discount": "15% off",
+      "newprice": "249.00",
+      "id": 39
+    },
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/2/d22.jpg",
+      "title": "Denver Caliber Deodorant For Men - Hamilton",
+      "oldprice": "212.00",
+      "discount": "15% off",
+      "newprice": "249.00",
+      "id": 40
+    },
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/7/37_4_1.jpg",
+      "title": "Denver Pride Hamilton Deo",
+      "oldprice": "212.00",
+      "discount": "15% off",
+      "newprice": "249.00",
+      "id": 41
+    },
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/2/d20.png",
+      "title": "Denver Black Code Perfume",
+      "oldprice": "212.00",
+      "discount": "15% off",
+      "newprice": "249.00",
+      "id": 42
+    }
+  ],
+  "home": [
+    {
+      "id": 1,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/r/e/repair_shampoo_650-2_1_1.jpg",
+      "title": "Dove Intense Repair Shampoo 650ml",
+      "oldprice": "350.00",
+      "discount": "30% off",
+      "newprice": "500.00"
+    },
+    {
+      "id": 2,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/f/efbafe2nywow000083__1_.jpg",
+      "title": "WOW Skin Science 10 In 1 Miracle Hair Oil",
+      "oldprice": "515.00",
+      "discount": "14% off",
+      "newprice": "599.00"
+    },
+    {
+      "id": 3,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/8/88b239c8904311904281__1_.jpg",
+      "title": "WOW Skin Science Himalayan Rose Conditioner",
+      "oldprice": "395.00",
+      "discount": "12% off",
+      "newprice": "449.00"
+    },
+    {
+      "id": 4,
+      "sale": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/4/d4fb39c8904311904267__1_.jpg",
+      "title": "WOW Skin Science Moroccan Argan Hair Oil - WITH COMB APPLICATOR - Cold Pressed",
+      "oldprice": "349.00",
+      "discount": "0% off",
+      "newprice": "349.00"
+    }
+  ],
+  "home1": [
+    {
+      "sale": "Sale",
+      "sale_1": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/8/s8.jpg",
+      "title": "Calvin Klein Eternity For Men Eau De Parfum",
+      "oldprice": "3,468.00",
+      "discount": "5% off",
+      "newprice": "3,650.00",
+      "id": 1
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo21.jpg",
+      "title": "Fogg Bleu Series Island Fragrance Body Spray",
+      "oldprice": "255.00",
+      "discount": "0% off",
+      "newprice": "255.00",
+      "id": 2
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo20.jpg",
+      "title": "Fogg Force Fragrance Body Spray",
+      "oldprice": "230.00",
+      "discount": "0% off",
+      "newprice": "230.00",
+      "id": 3
+    },
+    {
+      "sale": "",
+      "sale_1": "",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo19.jpg",
+      "title": "Fogg Punch Fragrance Body Spray",
+      "oldprice": "230.00",
+      "discount": "0% off",
+      "newprice": "230.00",
+      "id": 4
+    }
+  ],
+  "cart": [
+    {
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/o/4/o43.jpg",
+      "title": "O3+ Cranberry D-Tan",
+      "oldprice": "1550.00",
+      "newprice": 1473,
+      "ratings": "5",
+      "category": "face",
+      "discount": "5% off",
+      "id": 9
+    }
+  ]
+}

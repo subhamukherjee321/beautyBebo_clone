@@ -1,0 +1,160 @@
+.input {
+    padding: 10px;
+}
+
+.register_cont_at {
+    /* border: 2px solid green; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    width: 90%;
+    margin: auto;
+    text-align: left;
+
+}
+
+.register_at {
+    width: 70%;
+    /* border: 2px solid purple; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1%;
+}
+
+.info_container_at {
+    width: 400px;
+    border: 1px solid #cecece;
+    /* flex-direction: column; */
+    /* align-items: center; */
+    background-color: rgb(248, 248, 248);
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+
+.registerdetails_at {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.registerdetails_at div {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 3%;
+    /* justify-content: center; 
+    align-items: center; */
+    /* border: 2px solid yellow; */
+}
+
+.title_at {
+    /* width: 70%; */
+    margin-left: 15%;
+    margin-top: 2%;
+    border-bottom: 1px solid #cecece;
+    font-size: 120%;
+
+}
+
+.inp label {
+    margin-bottom: 1%;
+    font-size: 100%;
+    
+}
+
+.inp input {
+    padding: 10px;
+    border: 1px solid #cecece;
+}
+
+.registerbutton_at {
+    margin-top: 3%;
+    color: white;
+    border: none;
+    background-color: rgb(71, 67, 67);
+    padding: 2%;
+    margin-bottom: 5%;
+    margin-left: 15%;
+    cursor: pointer;
+}
+
+.registerbutton_at:hover {
+    background-color: rgb(221, 2, 133);
+}
+
+.signin_options_at {
+    display: flex;
+    flex-direction: row;
+    /* border: 2px solid salmon; */
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2%;
+    /* background-color: aqua; */
+}
+
+.facebooklogo_at {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    background-color: #2d4373;
+    color: #fff;
+    padding: 2%;
+    /* margin: 1%; */
+    width:fit-content;
+    border-radius: 5px;
+
+    align-items: center;
+    justify-content: space-between;
+    /* font-size: 1em; */
+    text-align: center;
+    cursor: pointer;
+}
+.facebooklogo_at > div{
+    margin-right: 5px;
+}
+
+/* .facebooklogo_at{
+    margin-right: 10px;
+} */
+
+/* .logos_login{
+    margin-right: 10px;
+} */
+
+.googlelogo_at {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    background-color: #dd4b39;
+    color: #fff;
+    padding: 2%;
+    /* margin: 3%; */
+    margin-left: 1%;
+    width:fit-content;
+    /* align-items: center; */
+    /* justify-content: center; */
+    cursor: pointer;
+    /* font-size: 1em; */
+    text-align: center;
+    border-radius: 5px;
+}
+
+.googlelogo_at > div{
+    margin-right: 5px;
+}
+
+.registermainheading_at {
+    /* height: 3rem; */
+    /* border: 2px solid yellow; */
+    /* width: 60%; */
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    font-size: 120%;
+    font-weight: 500;
+    margin-bottom: 2%;
+}

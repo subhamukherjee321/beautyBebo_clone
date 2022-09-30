@@ -1,0 +1,91 @@
+.main{
+    display: flex;
+    width: 93%;
+    margin: auto;
+    border: 1px solid rgb(199, 195, 195);
+    height: 450px;
+}
+.left1{
+    width: 25%;
+    margin-top: 20px;
+}
+.left1 a{
+     color: black;
+}
+.right1{
+    margin-top: 0px;
+    width:75%;
+    /* height: 800px; */
+    margin-left: 5px;
+    
+}
+.slider>img{
+    height: 600px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    margin-left: 15px;
+}
+.flex:hover{
+    border: 1px solid rgb(121, 115, 115);
+}
+.flex .fas{
+    margin-right: 30px;
+    margin-top: 6px;
+}
+
+.fa-bars{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+#next{
+    width: 100%;
+}
+#next img{
+    width: 93.3%;
+    margin-left: 45px;
+}
+.picture{
+    width: 93%;
+    margin: auto;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+.homeimg{
+    display: flex;
+    width: 93%;
+    height: 100px;
+    border: 1px solid red;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 15px;
+    
+
+
+}
+.homeimg>div{
+    height: 100%;
+    width: 100%;
+    border: 1px solid green;
+    display: flex;
+    justify-content: center;
+   
+}
+
+.homeimg>div>img{
+   margin: auto;
+  
+   
+}
+.homeproduct{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin-top: 15px;
+
+}
+.homeproduct img{
+    height: 250px;
+}
+
