@@ -28,16 +28,11 @@ function App() {
         <Route path='/personalcare' element={ <Personalcare/>}></Route>
         <Route path='/skin' element={<Skin/>}></Route>
         <Route path='/fragrance' element={<Fragrance/>}></Route>
-        
-
         <Route path='/cart' element={<PrivateComponent><Cart/></PrivateComponent>}> </Route>
         <Route path="/login" element={<Login/>}></Route>
         <Route path='/register' element={<Register/>}> </Route>
         <Route path='/payment' element={<Payment/>}> </Route>
         <Route path='/cart/checkout' element={<Checkout/>}></Route>
-        {/* <Route path='/signup' element={<SugarSignUp/>}></Route>
-        
-        <Route path='/payment' element={<PaymentOption/>}></Route> */}
       </Routes>
       <Footer></Footer>
    
