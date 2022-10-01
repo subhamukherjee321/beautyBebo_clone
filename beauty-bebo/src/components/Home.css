@@ -5,20 +5,23 @@
     border: 1px solid rgb(199, 195, 195);
     height: 450px;
 }
+
 .left1{
     width: 25%;
     margin-top: 20px;
 }
+
 .left1 a{
      color: black;
 }
+
 .right1{
     margin-top: 0px;
     width:75%;
-    /* height: 800px; */
     margin-left: 5px;
     
 }
+
 .slider>img{
     height: 600px;
 }
@@ -29,9 +32,11 @@
     padding: 5px;
     margin-left: 15px;
 }
+
 .flex:hover{
     border: 1px solid rgb(121, 115, 115);
 }
+
 .flex .fas{
     margin-right: 30px;
     margin-top: 6px;
