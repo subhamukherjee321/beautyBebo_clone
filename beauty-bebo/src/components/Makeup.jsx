@@ -17,20 +17,15 @@ const Makeup = () => {
     
     useEffect(()=>{
  
-        axios.get("http://localhost:8080/products").then((response)=>{
+        axios.get("https://mock-server-app-033a.onrender.com/products").then((response)=>{
           setmakeup(response.data);
         })  
         },[])
 
         
         
-        // const handleasc=()=>{
-        //   fetch("http://localhost:8080/products?_sort=newprice&_order=asc").then((d)=>d.json()).then((res)=>{
-        //     setmakeup(res);
-        //   })
-        // }
+        
       const handleSort=(e)=>{
-          // let data=e.target.value;
           let selected=e.target.value;
           if (selected == 'high') {
             makeup.sort(function (a, b) {
@@ -101,7 +96,7 @@ const Makeup = () => {
                   alert("Product added to cart")
                  
                 const data=e;
-               fetch("http://localhost:8080/cart",{
+               fetch("https://mock-server-app-033a.onrender.com/cart",{
                    method:"POST",
                  headers:{
                      "content-type":"application/json"
