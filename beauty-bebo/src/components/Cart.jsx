@@ -35,14 +35,14 @@ const Cart = () => {
         
 
         async function getData() {
-            const data=await fetch("http://localhost:8080/cart").then(d=>d.json());
+            const data=await fetch("https://mock-server-app-033a.onrender.com/cart").then(d=>d.json());
              setcartitem(data);
             //  console.log(data);
         }
 
         function handledelete (id){
             console.log("deleted")
-          fetch(`http://localhost:8080/cart/${id}`,{method:'DELETE'
+          fetch(`https://mock-server-app-033a.onrender.com/cart/${id}`,{method:'DELETE'
           }).then((result)=>{
               result.json().then((res)=>{
                 //   console.warn(res)

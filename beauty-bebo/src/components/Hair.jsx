@@ -16,7 +16,7 @@ const Hair = () => {
     console.log(makeup)
     useEffect(()=>{
  
-        axios.get("http://localhost:8080/hair").then((response)=>{
+        axios.get("https://mock-server-app-033a.onrender.com/hair").then((response)=>{
           setmakeup(response.data);
         })  
         },[])
@@ -94,7 +94,7 @@ const Hair = () => {
                   alert("Product added to cart")
                  
                 const data=e;
-               fetch("http://localhost:8080/cart",{
+               fetch("https://mock-server-app-033a.onrender.com/cart",{
                    method:"POST",
                  headers:{
                      "content-type":"application/json"

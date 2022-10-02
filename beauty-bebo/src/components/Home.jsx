@@ -16,13 +16,13 @@ const Home = () => {
   const [home1, sethome1] = useState([]);
 
   useEffect(() => {
-    axios.get("http://localhost:8080/home").then((response) => {
+    axios.get("https://mock-server-app-033a.onrender.com/home").then((response) => {
       sethome(response.data);
     });
   }, []);
 
   useEffect(() => {
-    axios.get("http://localhost:8080/home1").then((response) => {
+    axios.get("https://mock-server-app-033a.onrender.com/home1").then((response) => {
       sethome1(response.data);
     });
   }, []);

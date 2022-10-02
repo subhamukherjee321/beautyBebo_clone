@@ -16,7 +16,7 @@ const Fragrance = () => {
     console.log(makeup)
     useEffect(()=>{
  
-        axios.get("http://localhost:8080/fragrance").then((response)=>{
+        axios.get("https://mock-server-app-033a.onrender.com/fragrance").then((response)=>{
           setmakeup(response.data);
         })  
         },[])
@@ -93,7 +93,7 @@ const Fragrance = () => {
                   alert("Product added to cart")
                  
                 const data=e;
-               fetch("http://localhost:8080/cart",{
+               fetch("https://mock-server-app-033a.onrender.com/cart",{
                    method:"POST",
                  headers:{
                      "content-type":"application/json"
@@ -102,10 +102,7 @@ const Fragrance = () => {
                })
                handleChange(e.newprice)
 
-            }}
-                
-                
-                
+            }}  
                 >Add To Cart</button><BsHeartFill style={{color:"rgb(221, 2, 133)",fontSize:"20px"}}></BsHeartFill></div>
                 
               </div>
