@@ -2145,14 +2145,13 @@
   ],
   "cart": [
     {
-      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/o/4/o43.jpg",
-      "title": "O3+ Cranberry D-Tan",
-      "oldprice": "1550.00",
-      "newprice": 1473,
-      "ratings": "5",
-      "category": "face",
-      "discount": "5% off",
-      "id": 9
+      "id": 2,
+      "sale": "Sale",
+      "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/f/efbafe2nywow000083__1_.jpg",
+      "title": "WOW Skin Science 10 In 1 Miracle Hair Oil",
+      "oldprice": "515.00",
+      "discount": "14% off",
+      "newprice": "599.00"
     }
   ]
 }

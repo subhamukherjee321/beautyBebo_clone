@@ -13,6 +13,7 @@ import { BsHeartFill } from "react-icons/bs";
 
 const Home = () => {
   const [home, sethome] = useState([]);
+  console.log('home: ', home);
   const [home1, sethome1] = useState([]);
 
   useEffect(() => {
@@ -84,7 +85,7 @@ const Home = () => {
       </div>
 
       <div className="homeproduct">
-        {home1.map((e) => {
+        {home1 && home1.map((e) => {
           return (
             <div className="home_map">
               <img src={e.img}></img>,
@@ -166,7 +167,7 @@ const Home = () => {
         </div>
       </div>
       <div className="homeproduct">
-        {home.map((e) => {
+        {home && home.map((e) => {
           return (
             <div className="home_map">
               <img src={e.img}></img>,
