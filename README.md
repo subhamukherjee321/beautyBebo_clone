@@ -1,7 +1,7 @@
 # Welcome to Beauty-Bebo
 <h3>Beauty-Bebo is an E-Commerce Web Site Mainly For Beauty Products. From this site user can buy any type of beauty products.</h3>
 
-## [Deployed URL](https://sephora-nnnow-clone-by-subha.netlify.app/)](https://beautybebo-clone.netlify.app/)
+## [Deployed URL](https://beautybebo-clone.netlify.app/)
 
 ## Individual Project
 <br/>
