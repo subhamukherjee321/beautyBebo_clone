@@ -39,7 +39,7 @@
 
 ## Home Products :
 ![HomeProducts](https://user-images.githubusercontent.com/107471586/214836135-856a6754-da78-40ba-a4a1-3aad5b1109c6.PNG) <br/>
-[HomeProducts2](https://user-images.githubusercontent.com/107471586/214837786-19deb04c-e8d5-42b5-867e-30dd958a8f52.PNG) <br/> <br/>
+![HomeProducts2](https://user-images.githubusercontent.com/107471586/214837786-19deb04c-e8d5-42b5-867e-30dd958a8f52.PNG) <br/> <br/>
 
 ## Footer :
 ![Footer](https://user-images.githubusercontent.com/107471586/214836301-5c4e2179-4de0-4a3a-8d43-577fc016c9fe.PNG)
