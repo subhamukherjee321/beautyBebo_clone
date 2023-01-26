@@ -10,10 +10,10 @@
 <br/>
 <h4 align="center">💻 Tech Stack</h4>
  <div align="center">
- <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
- <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
- <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  align="center" alt="javascript" />
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+   <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  align="center" alt="javascript" />
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
    <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
 </div>
@@ -39,7 +39,7 @@
 
 ## Home Products :
 ![HomeProducts](https://user-images.githubusercontent.com/107471586/214836135-856a6754-da78-40ba-a4a1-3aad5b1109c6.PNG) <br/>
-![HomeProducts2](https://user-images.githubusercontent.com/107471586/214836178-83334203-c326-469e-a58c-f3f782997222.PNG) <br/> <br/>
+[HomeProducts2](https://user-images.githubusercontent.com/107471586/214837786-19deb04c-e8d5-42b5-867e-30dd958a8f52.PNG) <br/> <br/>
 
 ## Footer :
 ![Footer](https://user-images.githubusercontent.com/107471586/214836301-5c4e2179-4de0-4a3a-8d43-577fc016c9fe.PNG)
